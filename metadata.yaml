@@ -1,0 +1,30 @@
+_repo: The-man-in-the-street-Papers-on-American-topics_69677
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: https://en.wikipedia.org/wiki/Meredith_Nicholson
+description: ''
+gutenberg_issued: '2023-01-01'
+identifiers:
+  gutenberg: '69677'
+language: en
+pgterms:marc904: https://archive.org/details/maninthestreet00nichrich/mode/2up
+pgterms:marc905: 20220619200924nicholson
+pgterms:marc906: '1921'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by Cornell University Digital Collections)
+publication_note: 'United States: Charles Scribner''s Sons,1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The man in the street: Papers on American topics'
+url: http://www.gutenberg.org/ebooks/69677
