@@ -1,5 +1,8 @@
 _repo: The-man-in-the-street-Papers-on-American-topics_69677
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69677-h/images/cover.jpg
 creator:
   author:
     agent_name: Nicholson, Meredith
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4371
     wikipedia: https://en.wikipedia.org/wiki/Meredith_Nicholson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69677#The-man-in-the-street-Papers-on-American-topics
 gutenberg_issued: '2023-01-01'
 identifiers:
   gutenberg: '69677'
